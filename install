@@ -1,0 +1,1 @@
+cd banner-drowk;chmod 775 .banner drowbanner;mv .banner ~/../home;cp drowbanner ~/../usr/bin;
